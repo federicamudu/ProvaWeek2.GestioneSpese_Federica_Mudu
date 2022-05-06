@@ -1,0 +1,5 @@
+﻿2022,03,10;Vitto;Viaggio di Lavoro;1600
+2021,01,25;Alloggio;Trasferta;900
+2022,02,20;Viaggio;Viaggio per Conferenza;135
+2022,04,06;Altro;Personale;600
+2021,08,25;Viaggio;Meeting NewYork;2600
